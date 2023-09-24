@@ -1,2 +1,2 @@
 # brick_breaker
-brick breaker game in java
+brick breaker game coded with java
