@@ -1,2 +1,2 @@
 # brick_breaker
-mini brick breaker game in java
+brick breaker game in java
